@@ -1,0 +1,45 @@
+.middle-vert{
+    font-size: 50px;
+    background-color: plum;
+    max-width: 1000px;
+    margin: 0 auto;
+    height: 100px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.middle-vert1 {
+    font-size: 25px;
+    color: white;
+    background-color: darkorchid;
+    max-width: 1000px;
+    margin: 0 auto;
+    height: 50px;
+    text-align: center;
+    vertical-align: middle;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.middle-vert2 {
+    font-size: 18px;
+    background-color: lightgray;
+    max-width: 1000px;
+    margin: 0 auto;
+    height: 550px;
+}
+div.indent {
+    font-size: 50px;
+    background-color: violet;
+    text-indent: 0%;
+    height: 50px;
+    max-width: 1000px;
+    margin: 0 auto; 
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
